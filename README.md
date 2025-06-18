@@ -42,3 +42,34 @@
 2. **Install Pygame**:
    ```bash
    pip install pygame
+   ```
+
+3. **Unzip the folder** and open it.
+
+4. **Run the game**:
+   ```bash
+   python HWroyaleMAIN.py
+   ```
+
+---
+
+## 🗂 Folder Structure
+
+```
+HomeworkRoyale/
+├── HWroyaleMAIN.py
+├── GameConfig.py
+├── Assets/
+│   ├── Unit images (.png)
+│   ├── Tower images
+│   ├── Bridge, River, Teacher icon
+├── README.md
+├── changelog.txt
+```
+
+---
+
+## 🧠 Credits
+
+Developed by Adrian Servinis as a culminating project for ICS4C/ICS4U.  
+Built in Python using the Pygame library.
