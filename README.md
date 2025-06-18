@@ -71,5 +71,5 @@ HomeworkRoyale/
 
 ## 🧠 Credits
 
-Developed by Adrian Servinis as a culminating project for ICS4C/ICS4U.  
+Developed by Dardan Murati as a culminating project for Computer Science.
 Built in Python using the Pygame library.
