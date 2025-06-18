@@ -67,6 +67,20 @@ HomeworkRoyale/
 
 ---
 
+## 🗒️ Changelog
+
+### v1.0 - Final Culminating Build
+- All units and towers now attack and animate properly
+- AI logic implemented with random spawning
+- Homework mode fully functional and toggled via icon
+- Elixir system added with regeneration control
+- Health bars, tower targeting, and win conditions completed
+- Horizontal map layout with strategic tower and bridge placement
+- Teacher icon and homework disguise (Calculus image) added
+- Visual effects for projectiles and splash damage (Fireball)
+
+---
+
 ## 🧠 Credits
 
 Developed by Dardan Murati as a culminating project for Computer Science.
