@@ -63,8 +63,6 @@ HomeworkRoyale/
 │   ├── Unit images (.png)
 │   ├── Tower images
 │   ├── Bridge, River, Teacher icon
-├── README.md
-├── changelog.txt
 ```
 
 ---
