@@ -44,7 +44,7 @@
    pip install pygame
    ```
 
-3. **Unzip the folder** and open it.
+3. **Unzip HomeworkRoyale.zip** and open it.
 
 4. **Run the game**:
    ```bash
