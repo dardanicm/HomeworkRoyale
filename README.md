@@ -44,12 +44,15 @@
    pip install pygame
    ```
 
-3. **Unzip HomeworkRoyale.zip** and open it.
+3. **Unzip the game folder**.
 
 4. **Run the game**:
-   ```bash
-   python HWroyaleMAIN.py
-   ```
+   - Make sure the `Assets` folder is in the same directory as `HWroyaleMAIN.py`.
+   - Open a terminal or command prompt inside the folder.
+   - Run:
+     ```bash
+     python HWroyaleMAIN.py
+     ```
 
 ---
 
